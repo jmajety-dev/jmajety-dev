@@ -9,8 +9,24 @@ readme_content_with_badges = """
 ### 🚀 About Me:
 - **Certified AWS Developer and IBM Data science Professional** with a strong background in **cloud development** and **data pipelines**.
 - Proficient in **Python, Java, PySpark, SQL, JavaScript, React, Django, and Cloud Engineering**.
-- A dedicated team player with a **"whatever it takes" mentality**, driving projects to completion while ensuring client satisfaction.
-- Expertise in **system design**, **business intelligence** (PowerBI, Tableau), and **machine learning** (Keras, Pandas).
+- A dedicated team player with a **"whatever it takes" mentality"**, driving projects to completion while ensuring client satisfaction.
+- Expertise in **system design**, **Big data** (PowerBI, Tableau), and **machine learning** (Keras, Pandas).
+
+---
+
+### 💼 Notable Projects:
+- **Norton Health Solution**  
+  - Designed and deployed a **secure cloud architecture** using Terraform, ensuring compliance with **HIPAA** and **PCI** standards.
+  - Improved deployment times by 30% and reduced data recovery time by 40%, ensuring data security and operational efficiency.
+
+- **YouTube Data Analysis**  
+  - Developed an end-to-end **data engineering pipeline** using PySpark, AWS, and SQL, enabling insights into user behavior and trends across 200 YouTube videos daily.
+
+---
+
+### 🏗️ What I'm Working On:
+- Building and optimizing **large-scale data pipelines** using Apache Spark, PySpark, and AWS EMR.
+- Implementing **cloud solutions** focused on security and real-time analytics for enterprise-level projects.
 
 ---
 
@@ -29,22 +45,6 @@ readme_content_with_badges = """
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-
----
-
-### 💼 Notable Projects:
-- **Norton Health Solution**  
-  - Designed and deployed a **secure cloud architecture** using Terraform, ensuring compliance with **HIPAA** and **PCI** standards.
-  - Improved deployment times by 30% and reduced data recovery time by 40%, ensuring data security and operational efficiency.
-
-- **YouTube Data Analysis**  
-  - Developed an end-to-end **data engineering pipeline** using PySpark, AWS, and SQL, enabling insights into user behavior and trends across 200 YouTube videos daily.
-
----
-
-### 🏗️ What I'm Working On:
-- Building and optimizing **large-scale data pipelines** using Apache Spark, PySpark, and AWS EMR.
-- Implementing **cloud solutions** focused on security and real-time analytics for enterprise-level projects.
 
 ---
 
