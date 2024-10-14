@@ -10,7 +10,6 @@
 - Proficient in **Python, Java, PySpark, SQL, JavaScript, React, Django, and Cloud Engineering**.
 - A dedicated team player with a **" whatever it takes" mentality**, driving projects to completion while ensuring client satisfaction.
 - Expertise in **system design**, **business intelligence** (PowerBI, Tableau), and **machine learning** (Keras, Pandas).
-- Authorized to work in the USA on **F1-OPT** until 2027.
 
 ---
 
