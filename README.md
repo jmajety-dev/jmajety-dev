@@ -47,6 +47,8 @@
 ---
 
 ### 📫 Let's Connect:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jitesh-majety/)
-- 💻 [GitHub](https://github.com/jmajety-lab)
+- ### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jitesh-majety/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jmajety-lab)
 
