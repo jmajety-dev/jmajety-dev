@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me:
-- **Certified AWS Developer and IBM Data science Professional ** with a strong background in **cloud development** and **data pipelines**.
+- **Certified AWS Developer and IBM Data science Professional** with a strong background in **cloud development** and **data pipelines**.
 - Proficient in **Python, Java, PySpark, SQL, JavaScript, React, Django, and Cloud Engineering**.
 - A dedicated team player with a **" whatever it takes" mentality**, driving projects to completion while ensuring client satisfaction.
 - Expertise in **system design**, **business intelligence** (PowerBI, Tableau), and **machine learning** (Keras, Pandas).
@@ -15,11 +15,11 @@
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: Python, Java, SQL, JavaScript, C++, C#
+- **Languages**: Python, Java, SQL, JavaScript, C++, C#, Terraform
 - **Frameworks & Libraries**: PySpark, React, Django, Flask, Node.js
 - **Cloud**: AWS EC2, AWS RDS, AWS S3, AWS EMR, AWS CloudFormation, AWS Snapshots
 - **Data Tools**: Hadoop, Spark, Power BI, Tableau, Keras, Pandas, MySQL, NoSQL
-- **Other**: Docker, Kafka, Terraform, ETL, CICD, Microservices, Business Intelligence, Machine Learning
+- **Other**: Docker, Kafka, ETL, CICD, Microservices, Business Intelligence, Machine Learning
 
 ---
 
