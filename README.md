@@ -23,7 +23,7 @@
 ---
 
 ### 🏗️ What I'm Working On:
-- Building and optimizing **large-scale data pipelines** using Apache Spark, PySpark, and AWS EMR.
+- Building and optimizing **large-scale data pipelines** and **machine learning applications** using Apache Spark, PySpark, and AWS EMR.
 - Implementing **cloud solutions** focused on security and real-time analytics for enterprise-level projects.
 
 ---
