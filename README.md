@@ -51,7 +51,7 @@ readme_content_with_badges = """
 ### 📫 Let's Connect:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jitesh-majety/)
 - 💻 [GitHub](https://github.com/jmajety-lab)
-"""
+
 
 # Save the content to a README.md file
 file_path_with_badges = "/mnt/data/README_with_badges.md"
@@ -59,3 +59,4 @@ with open(file_path_with_badges, "w") as file:
     file.write(readme_content_with_badges)
 
 file_path_with_badges
+"""
