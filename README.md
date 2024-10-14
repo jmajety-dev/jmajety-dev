@@ -1,5 +1,3 @@
-# Let's create the actual README.md file with skill badges and project descriptions as requested
-readme_content_with_badges = """
 # 👋 Hi, My name is Jitesh Majety
 
 **Software Developer** with over 3 years of experience in **Software Development**, **Cloud Engineering**, and **Data Engineering**. I am passionate about solving complex problems and building scalable applications in Big Data and Machine Learning recently graduated from University of Maryland, College Park - Masters in Software Engineering.
