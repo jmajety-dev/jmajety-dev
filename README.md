@@ -1,6 +1,6 @@
 # 👋 Hi, My name is Jitesh Majety
 
-**Software Developer** with over 3 years of experience in **Software Development**, **Cloud Engineering**, and **Data Engineering**. I am passionate about solving complex problems and building scalable applications in Big Data and Machine Learning. I recently graduated from the University of Maryland, College Park - Masters in Software Engineering.
+**Software Developer** with over 3 years of experience in **Software Development**, **Data Science**, and **Data Engineering**. I am passionate about solving complex problems and building scalable applications in Big Data and Machine Learning. I recently graduated from the University of Maryland, College Park - Masters in Software Engineering.
 
 ---
 
